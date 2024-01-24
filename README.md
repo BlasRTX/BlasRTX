@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blas Arias Zambra</h1>
+<h1 align="center">Hi 👋, I'm Blas</h1>
 
 ## Sobre mi
 
@@ -68,7 +68,7 @@ A lo largo de mi carrera, he adquirido un conjunto de diversas habilidades me ha
 </span>
 </div>
 
-## Conecta conmigo!
+## Contactos
 <div align="center">
 <span>
 <a href="https://www.linkedin.com/in/blas-arias-zambra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
